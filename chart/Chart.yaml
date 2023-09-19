@@ -27,7 +27,7 @@ appVersion: "0.0.0"
 dependencies:
   - name: etcd
     repository: https://charts.bitnami.com/bitnami
-    version: 8.6.0
+    version: 9.5.0
   - name: jaeger-operator
     version: 2.25.0
     repository: https://jaegertracing.github.io/helm-charts
